@@ -1,0 +1,7 @@
+__pycache__
+results
+*.db
+*.pickle
+*.xls
+SPX_timeline.json
+auxiliar.py 
